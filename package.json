@@ -1,0 +1,26 @@
+{
+"name": "411-kivnwm",
+"version": "1.0.0",
+"description": "Get assistance with tasks, scheduling, and information retrieval through a smart AI assistant.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/llhd200/411AI-driven-.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "llhd200",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
